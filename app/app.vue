@@ -1,3 +1,8 @@
+<script setup lang="ts">
+import AppHeader from "@/components/AppHeader.vue";
+</script>
+
 <template>
-  <h1 class="">Hello world!</h1>
+  <AppHeader />
+  <NuxtPage />
 </template>

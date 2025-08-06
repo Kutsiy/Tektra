@@ -6,4 +6,8 @@
   #__nuxt {
     height: 100%;
   }
+
+  * {
+    color: white;
+  }
 }
