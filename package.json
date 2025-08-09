@@ -11,6 +11,7 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "@nuxt/icon": "^1.15.0",
     "@tailwindcss/vite": "^4.1.11",
     "nuxt": "^4.0.1",
     "tailwindcss": "^4.1.11",
